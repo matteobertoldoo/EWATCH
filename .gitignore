@@ -1,0 +1,9 @@
+bin
+*/.buildozer
+*.jpg
+__pycache__
+*.apk
+*/*/.buildozer
+*.npy
+*.db
+*.json

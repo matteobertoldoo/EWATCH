@@ -1,0 +1,2 @@
+rm -rf encodings uploads pazienti.db
+rm -fr face_uploads face_encodings face_db.db
